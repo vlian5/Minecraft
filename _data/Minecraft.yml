@@ -129,12 +129,16 @@
           logo: /assets/images/logos/MMOITEMS.jpg
           url: https://www.spigotmc.org/resources/39267/
           description: RPG物品管理系统
+        - title: MMOInventory
+          logo: /assets/images/logos/MMOInventory.png
+          url: https://jq.qq.com/?_wv=1027&k=SuYrzvnt
+          description: MMoitems配套背包属性面板
         - title: MythicMobs
           logo: /assets/images/logos/MythicMobs.jpg
           url: https://www.spigotmc.org/resources/5702/
           description: 神话怪物
         - title: MythicArtifacts
-          logo: /assets/images/logos/TrHologram.png
+          logo: /assets/images/logos/MythicArtifacts.png
           url: https://github.com/Arasple/TrHologram
           description: 神话怪物神器制作
         - title: MythicCrucible
