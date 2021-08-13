@@ -77,7 +77,6 @@
           logo: /assets/images/logos/VentureChat.jpg
           url: https://www.spigotmc.org/resources/venturechat.771/
           description: 聊天插件
-      
     - name: TabooLib插件集合
       links:
         - title: TrMenu
