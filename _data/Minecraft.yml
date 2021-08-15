@@ -139,6 +139,7 @@
           description: 使用神话Mobs的技能系统创建无限数量的自定义魔咒！并配备了特殊的机制和条件，与魔咒互动。
 - name: 客户端MOD
   icon: linecons-lightbulb
+  links: 
     - title: Autofish
       logo: /assets/images/logos/producthunt.png
       url: https://www.curseforge.com/minecraft/mc-mods/autofish
@@ -150,6 +151,7 @@
 
 - name: JAVA
   icon: linecons-thumbs-up
+  links: 
     - title: JAVA8
       logo: /assets/images/logos/producthunt.png
       url: https://cloud.189.cn/web/share?code=JfeYNb7NfIFr
@@ -233,6 +235,7 @@
 
 - name: 其他工具
   icon: linecons-user
+  links: 
     - title: MC颜色大全
       logo: /assets/images/logos/CMI.jpg
       url: https://color.ods.im/
