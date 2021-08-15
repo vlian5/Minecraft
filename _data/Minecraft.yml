@@ -153,15 +153,15 @@
   icon: linecons-thumbs-up
   links: 
     - title: JAVA8
-      logo: /assets/images/logos/producthunt.png
+      logo: /assets/images/logos/java.jpg
       url: https://cloud.189.cn/web/share?code=JfeYNb7NfIFr
       description: zip二进制版本，非安装版
     - title: JAVA16
-      logo: /assets/images/logos/producthunt.png
+      logo: /assets/images/logos/pjava.jpg
       url: https://cloud.189.cn/web/share?code=RnQveeNRNBVr
       description: zip二进制版本，非安装版      
     - title: JAVA环境配置教程
-      logo: /assets/images/logos/producthunt.png
+      logo: /assets/images/logos/java.jpg
       url: https://cloud.189.cn/web/share?code=JfeYNb7NfIFr
       description: zip二进制版本环境配置教程
 - name: 整合包
@@ -170,13 +170,13 @@
     - name: Forge版本
       links:
         - title: 1.7.10
-          logo: /assets/images/logos/CMI.jpg
+          logo: /assets/images/logos/favicon.ico
           url: https://cloud.189.cn/web/share?code=mIBNRfNrUVzm
           description: 1.7.10生存整合
     - name: Fabric版本
       links:
         - title: 1.17.1
-          logo: /assets/images/logos/CMI.jpg
+          logo: /assets/images/logos/favicon.ico
           url: https://cloud.189.cn/web/share?code=jIvINvFzURbm
           description: 1.17.1生存整合beta版本
 - name: 服务端核心文件
@@ -237,15 +237,15 @@
   icon: linecons-user
   links: 
     - title: MC颜色大全
-      logo: /assets/images/logos/CMI.jpg
+      logo: /assets/images/logos/favicon.ico
       url: https://color.ods.im/
       description: 颜色RBG转换
     - title: 卡密生成管理系统
-      logo: /assets/images/logos/spigot.png
+      logo: /assets/images/logos/favicon.ico
       url: https://kami.ods.im
       description: 卡密生成管理系统
     - title: skillAPI编辑器
-      logo: /assets/images/logos/spigot.png
+      logo: /assets/images/logos/favicon.ico
       url: https://skillapi.ods.im
       description: skillAPI编辑器
 
