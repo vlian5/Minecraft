@@ -7,4 +7,4 @@ layout: about
 
 --- 
 
-> 这个网站是 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 的 [Jekyll](https://jekyllrb.com/) 版。
+> 这个网站是致力于minecraft资源导航。
