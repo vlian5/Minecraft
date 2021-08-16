@@ -5,7 +5,7 @@ permalink: /server/
 icon: bookmark
 type: page
 ---
-## 推荐可游玩的服务器
+推荐的MC服务器
 
 * [迷城RPG](http://mc.ods.im) IP: mc.ods.im
 
