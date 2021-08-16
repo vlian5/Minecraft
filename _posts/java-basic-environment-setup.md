@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Java环境配置"
+categories: 教程
+tags: java
 author: ODS
 mathjax: true
 ---
