@@ -9,11 +9,11 @@
 title: Minecraft.ods.im - 我的世界资源网址导航
 keywords: 网址导航
 description: 资源网站
-brief-intro: Front-end Dev Engineer
+brief-intro: Minecraft资源导航站
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://minecraft.ods.im" # the base hostname & protocol for your site
 
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 
 # other links
 twitter_username:
@@ -60,6 +60,7 @@ excerpt_separator: "\n\n\n\n"
 # paginate
 gems: [jekyll-paginate]
 paginate: 10
-
+theme: minima
 plugins:
   - jekyll-paginate
+  - jekyll-feed
