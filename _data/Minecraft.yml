@@ -162,7 +162,7 @@
       description: zip二进制版本，非安装版      
     - title: JAVA环境配置教程
       logo: /assets/images/logos/java.jpg
-      url: https://cloud.189.cn/web/share?code=JfeYNb7NfIFr
+      url: https://minecraft.ods.im/java-basic-environment-setup/
       description: zip二进制版本环境配置教程
 - name: 整合包
   icon: linecons-diamond

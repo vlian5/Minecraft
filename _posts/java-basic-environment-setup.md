@@ -2,16 +2,8 @@
 layout: post
 title:  "Java环境配置"
 categories: 教程
-tags: java
-author: ODS
 mathjax: true
 ---
-
-* content
-{:toc}
-
-本文介绍JAVA环境的配置
-
 
 # Java 环境下载
 
