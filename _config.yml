@@ -16,10 +16,17 @@ url: "https://minecraft.ods.im" # the base hostname & protocol for your site
 permalink: /:title/
 
 # other links
-github_username:  
-email: 
-weibo_username: 
-zhihu_username: 
+# twitter_username:
+# facebook_username: 
+github_username: ODS  
+email: 878269086@qq.com
+# weibo_username: 
+# zhihu_username: 
+# linkedIn_username: 
+# dribbble_username:
+
+# description_footer: 本站记录我前端之旅的沿途风景！
+
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
@@ -53,5 +60,6 @@ excerpt_separator: "\n\n\n\n"
 # paginate
 gems: [jekyll-paginate]
 paginate: 10
+
 plugins:
   - jekyll-paginate
