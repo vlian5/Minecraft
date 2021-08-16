@@ -22,7 +22,7 @@ BELLsoft版本的JAVA是集成JFX功能的，下载之后配置好环境就可�
 建议下载ZIP版本，次版本需要手动设置环境配置，但是方便对版本java共存及随时调整java版本使用。
 
 
-## 配置环境变量
+# 配置环境变量
 
 1.
 右击“我的电脑”→“属性”→“高级系统设置”→“高级”→“环境变量”；（win10系统可直接在左下角搜索框搜索“编辑系统环境变量”）
@@ -41,12 +41,12 @@ BELLsoft版本的JAVA是集成JFX功能的，下载之后配置好环境就可�
 变量名：Path
 变量值：%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
 
-### 通过控制台测试JDK是否安装成功
+# 通过控制台测试JDK是否安装成功
 1、同时按键盘上“win”、“R”两个键打开运行，输入“cmd”确定打开控制台。
 
 
 2、键入命令: java -version、java、javac 几个命令，出现以下信息，说明环境变量配置成功；
-#### Linux，UNIX，Solaris，FreeBSD环境变量设置
+# Linux，UNIX，Solaris，FreeBSD环境变量设置
 环境变量PATH应该设定为指向Java二进制文件安装的位置。如果设置遇到困难，请参考shell文档。
 
 例如，假设你使用bash作为shell，你可以把下面的内容添加到你的 .bashrc文件结尾: export PATH=/path/to/java:$PATH
