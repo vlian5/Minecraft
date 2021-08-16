@@ -185,7 +185,7 @@
     - name: paper
       links:
         - title: 1.8.8
-          logo: /assets/images/logos/PAPER.svg
+          logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/443/downloads/paper-1.8.8-443.jar
           description: 官方下载地址
         - title: 1.9.4
