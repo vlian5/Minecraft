@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Collections
-permalink: /collection/
+title: minecraft服务器
+permalink: /server/
 icon: bookmark
 type: page
 ---
