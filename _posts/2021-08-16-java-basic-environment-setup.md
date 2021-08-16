@@ -10,9 +10,7 @@ mathjax: true
 * content
 {:toc}
 
-
-
-
+本文介绍JAVA环境的配置
 
 
 # Java 环境下载
