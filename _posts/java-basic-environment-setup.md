@@ -4,8 +4,6 @@ title:  "Java环境配置"
 categories: 教程
 mathjax: true
 ---
-* content
-{:toc}
 
 # Java 环境下载
 
