@@ -126,3 +126,7 @@ GC 日志记录不会损害您的性能，并且可以始终保持开启状态�
 
 ## 透明大页面
 有争议的功能，但如果您无法为真正的 HugeTLBFS 配置主机，则可能可用。尝试添加 -XX:+UseTransparentHugePages 但非常重要的是您还设置了 AlwaysPreTouch。否则 THP 可能会伤害您。我还没有测量过 THP 对 MC 的作用及其对 AlwaysPreTouch 的影响，所以本节是为想要体验的高级用户准备的。
+
+参考资料：
+[](https://mcflags.emc.gs/)
+[](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/)
