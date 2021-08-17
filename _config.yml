@@ -36,11 +36,11 @@ baidu_tongji_id: a2dd6d09663ba7c98593776b7a09dcda
 google_analytics_id: G-TKTS6T4CT0 # google 分析追踪id
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+# kramdown:
+  # input: GFM
+  # syntax_highlighter: rouge
 
 # port
 # port: 1234
@@ -49,11 +49,11 @@ kramdown:
 category_dir: category/
 
 # excerpt
-excerpt_separator: "\n\n\n\n"
+# excerpt_separator: "\n\n\n\n"
 
-# paginate
-gems: [jekyll-paginate]
-paginate: 10
+# # paginate
+# gems: [jekyll-paginate]
+# paginate: 10
 
-plugins:
-  - jekyll-paginate
+# plugins:
+  # - jekyll-paginate
