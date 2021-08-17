@@ -21,6 +21,8 @@ mathjax: true
 准确使用这些标志，只改变Xmx和Xms。这些标志在任何大小的内存中都能工作并有相应的规模，甚至是500MB，但1.15在如此低的内存中不会做得很好...)
 启动参数
 >java -Xms10G -Xmx10G * -XX:+UseG1GC * -XX:+ParallelRefProcEnabled * -XX:MaxGCPauseMillis=200 * -XX:+UnlockExperimentalVMOptions * -XX:+DisableExplicitGC * -XX:+AlwaysPreTouch * -XX:G1NewSizePercent=30 * -XX:G1MaxNewSizePercent=40 * -XX:G1HeapRegionSize=8M * -XX:G1ReservePercent=20 * -XX:G1HeapWastePercent=5 * -XX:G1MixedGCCountTarget=4 * -XX:InitiatingHeapOccupancyPercent=15 * -XX:G1MixedGCLiveThresholdPercent=90 * -XX:G1RSetUpdatingPauseTimePercent=5 * -XX:SurvivorRatio=32 * -XX:+PerfDisableSharedMem * -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -jar paperclip.jar nogui
+
+
 更新于2020年4月25日
 
 推荐所有版本的 Minecraft 使用这些标志！ 1.8 一直到 1.15+，用这套。
