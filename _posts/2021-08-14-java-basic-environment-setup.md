@@ -7,8 +7,10 @@ mathjax: true
 
 # Java 环境下载
 
-[JAVA下载地址](https://bell-sw.com/pages/downloads/)
+**[JAVA下载地址](https://bell-sw.com/pages/downloads/)**
+
 为什么建议下载bellsoft的java开发版本，是因为在java11版本之后，在标准的jdk中移除了JFX，而HMCL需要JFX才能使用，我们可以自己下载JFX来用，但是很多人都设置失败无法使用HMCL。
+
 BELLsoft版本的JAVA是集成JFX功能的，下载之后配置好环境就可以使用了！
 建议下载ZIP版本，次版本需要手动设置环境配置，但是方便对版本java共存及随时调整java版本使用。
 
