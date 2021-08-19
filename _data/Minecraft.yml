@@ -11,7 +11,7 @@
   links: 
     - title: HMCL
       logo: /assets/images/logos/HMCL.png
-      url: https://www.mcbbs.net/thread-142335-1-1.html
+      url: https://hmcl.huangyuhui.net/download
       description: 推荐：全平台，模组自动安装，整合包制作。
     - title: BakaXL
       logo: /assets/images/logos/BakaXL.png
@@ -141,14 +141,73 @@
   icon: linecons-lightbulb
   links: 
     - title: Autofish
-      logo: /assets/images/logos/producthunt.png
+      logo: /assets/images/logos/favicon.ico
       url: https://www.curseforge.com/minecraft/mc-mods/autofish
       description: 自动钓鱼
     - title: durabilityviewer
-      logo: /assets/images/logos/producthunt.png
+      logo: /assets/images/logos/favicon.ico
       url: https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer
       description: 耐久显示
-
+    - title: diggusmaximus
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/diggus-maximus
+      description: 连锁挖矿，默认按~
+    - title: light-overlay
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/light-overlay
+      description: 光照范围显示
+    - title: optifabric
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/optifabric
+      description: 高清修复前置
+    - title: OptiFine
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.optifine.net/downloads
+      description: 高清修复
+    - title: Hwyla
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/hwyla
+      description: 高亮显示
+    - title: worldedit
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/worldedit
+      description: 创世神
+    - title: fabric-api
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/fabric-api
+      description: fabric-api
+    - title: modmenu
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/modmenu
+      description: MOD菜单
+    - title: appleskin
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/appleskin
+      description: 饱食度显示
+    - title: VoxelMap
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/voxelmap
+      description: 小地图
+    - title: mousewheelie
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie
+      description: 鼠标滚轮
+    - title: Dark Loading Screen
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen
+      description: 使加载屏幕变暗
+    - title: VanillaDeathChest
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/vanilladeathchest-fabric
+      description: 死亡箱子
+    - title: AutoSwitch
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch
+      description: 自动选择工具
+    - title: Autofish
+      logo: /assets/images/logos/favicon.ico
+      url: 
+      description:
 - name: JAVA
   icon: linecons-thumbs-up
   links: 
@@ -164,7 +223,7 @@
       logo: /assets/images/logos/java.jpg
       url: https://minecraft.ods.im/java-basic-environment-setup/
       description: zip二进制版本环境配置教程
-- name: 整合包
+- name: 生存整合包
   icon: linecons-diamond
   sub: 
     - name: Forge版本
@@ -179,7 +238,7 @@
           logo: /assets/images/logos/favicon.ico
           url: https://cloud.189.cn/web/share?code=jIvINvFzURbm
           description: 1.17.1生存整合beta版本
-- name: 服务端核心文件
+- name: 服务端核心
   icon: linecons-pencil
   sub: 
     - name: paper
@@ -231,8 +290,17 @@
           logo: /assets/images/logos/spigot.png
           url: https://getbukkit.org/download/spigot
           description: 非官方下载地址，核心可能不是最新版
-
-
+- name: 域名出售
+  icon: linecons-user
+  links: 
+    - title: mcss.vip
+      logo: /assets/images/logos/favicon.ico
+      url: https://mi.aliyun.com/detail/online.html?spm=5176.8105420.1024.1.16d92d19btLzsN&domainName=mcss.vip&orgType=0&productType=2
+      description: MC服务期域名，玩家群可转让。论坛放的整合包自带此IP
+    - title: 521521521.xyz
+      logo: /assets/images/logos/favicon.ico
+      url: https://mi.aliyun.com/detail/online.html?spm=5176.8105420.1024.2.16d92d19btLzsN&domainName=521521521.xyz&orgType=0&productType=2
+      description: 溢价域名，低价急出！
 - name: 其他工具
   icon: linecons-user
   links: 

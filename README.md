@@ -1,27 +1,8 @@
 # Fabric
 Minecraft整合包(Fabric版本)，HMCL启动器(https://hmcl.huangyuhui.net/download)
-♥网站 https://www.mcss.vip
-♥PC版服务器  ip:  mcss.vip
-# [Oftifine](https://www.optifine.net)
-插件链接地址
-# [【自动钓鱼】Autofish](https://www.curseforge.com/minecraft/mc-mods/autofish)
-# [【耐久显示】durabilityviewer](https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer)
-# [【连锁挖矿】diggusmaximus](https://www.curseforge.com/minecraft/mc-mods/diggus-maximus)（默认按~）
-# [【光照范围显示】light-overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)（默认按F7）
-# [【高清修复前置】optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)
-# [【高清修复】preview_OptiFine](https://www.optifine.net/downloads)
-# [【高亮显示】Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla)
-# [【创世神】worldedit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
-# [【创世神WE】worldedit](https://builds.enginehub.org/job/worldedit/last-successful?branch=master)
-# [【API】fabric-api](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-# [【MOD菜单】modmenu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
-# [【饱食度显示】appleskin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-# [【小地图】VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
-# [【鼠标滚轮】mousewheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)
-# [【使加载屏幕变暗】Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
-# [【死亡箱子】VanillaDeathChest](https://www.curseforge.com/minecraft/mc-mods/vanilladeathchest-fabric)
-# [【自动选择工具】Fabric AutoSwitch](https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch)
-# [【多功能滚轮】](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)
+
+插件链接地址 
+[【多功能滚轮】](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)
 # [【优化mod】Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
 # [【随身工作台】Portable Workbench](https://www.curseforge.com/minecraft/mc-mods/portable-workbench)
 # [【REI物品管理】RoughlyEnoughItems](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
@@ -48,9 +29,7 @@ Minecraft整合包(Fabric版本)，HMCL启动器(https://hmcl.huangyuhui.net/dow
 开源地址：[https://github.com/0xl2oot/webstack-jekyll](https://github.com/0xl2oot/webstack-jekyll)
 关于图片资源
 ---
-```/assets/images/logos/default.png``` 这是网站标签的默认图标
-```/assets/images/logos``` 这里是所有网站内的图标切图，尺寸均为120px*120px
-```/assets/webstack_logos.sketch``` 这是网站标签收录的所有图标设计源文件，你可以在这里[下载](https://WebStackPage.github.io/assets/webstack_logos.sketch) 。打开前请确认Sketch版本高于50.2(55047)
+
 _data
 _layouts/about、404、home
 _posts/2020-09-09
@@ -75,4 +54,25 @@ js
 page
 _config
 =====================
+``` bash
+
+├─ resources
+│   ├ themes
+│   │ └ bootstrap
+│   │    └ .....
+│   │
+│   ├ DirectoryLister.php
+│   ├ config.php
+│   └ fileTypes.php
+│
+├ README.html # 文件夹内的 说明简介文件 #
+├ index.php
+│
+├─ 测试文件夹
+│   ├ 测试文件.txt
+│   └ README.html # 文件夹内的 说明简介文件 #
+│
+└ 测试文件.txt
+```
+
 
