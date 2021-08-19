@@ -204,10 +204,33 @@
       logo: /assets/images/logos/favicon.ico
       url: https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch
       description: 自动选择工具
-    - title: Autofish
+    - title: RoughlyEnoughItems
       logo: /assets/images/logos/favicon.ico
-      url: 
-      description:
+      url: https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
+      description: REI物品管理
+    - title: WorldEditCUI
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric-edition
+      description: 创世神选择范围显示  
+    - title: Beenfo
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/beenfo
+      description: 蜜蜂信息
+    - title: CustomSkinLoader
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/sit-fabric
+      description: 皮肤补丁
+    - title: RoughlyEnoughItems
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/neat
+      description: 头顶血量
+    - title: reauth
+      logo: /assets/images/logos/favicon.ico
+      url: https://www.curseforge.com/minecraft/mc-mods/reauth/files
+      description: 客户端登录  
+      
+      
+      
 - name: JAVA
   icon: linecons-thumbs-up
   links: 
