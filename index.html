@@ -105,8 +105,8 @@ layout: home
 	<style type="text/css">
 	#baidu{white-space:nowrap}
 	#baidu form{margin:0;padding:0}
-	#baidu_keyword{width:307px;height:35px;line-height:35px;font:14px arial;padding: 2px 5px;margin-right:5px;border:2px solid #c0c0c0;outline:0;vertical-align:middle;}
-	#baidu_keyword{background:url(http://img.baidu.com/img/logo-80px.gif) no-repeat left center;}
+	#baidu_keyword{width:307px;height:35px;line-height:35px;font:14px arial;padding: 2px 5px;margin-right:0px;border:2px solid #c0c0c0;outline:0;vertical-align:middle;}
+	#baidu_keyword{background:url(http://img.baidu.com/img/logo-80px.gif) no-repeat right center;}
 	#baidu_submit{width:80px;height:35px;line-height:35px;border:0;background: #1e90ff;font-weight:bold;font:bold 14px arial;padding:0;padding-top:3px\9;cursor:pointer;vertical-align:middle}
 	</style>
 	<div id="baidu">
@@ -121,7 +121,7 @@ layout: home
 			<input type="hidden" name="rqlang" value="">
 			<input type="hidden" name="tn" value="baiduhome_pg" />
 			<input type="hidden" name="ch" value="">
-			<input type="submit" id="baidu_submit" value="">
+			<input type="submit" id="baidu_submit" value="百度一下">
 		</form>
 	</div>
     {% for category in site.data.Minecraft %}
