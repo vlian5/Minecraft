@@ -109,7 +109,8 @@ layout: home
 	2px 5px;margin-right:5px;border:2px solid #c0c0c0;outline:0;vertical-align:middle;}
 	#baidu_keyword{background:url(http://img.baidu.com/img/logo-80px.gif)
 no-repeat right center;}
-	#baidu_submit{width:70px;height:32px;line-height:32px;border:0;color:#fff;
+	#baidu_submit{background:url(http://img.baidu.com/img/logo-80px.gif)
+no-repeat right center;}
 	background:	#1e90ff;font-weight:bold;font:bold 14px arial;padding:0;
 	padding-top:3px\9;cursor:pointer;
 	vertical-align:middle}
@@ -117,7 +118,7 @@ no-repeat right center;}
 	<div id="baidu">
 		<form action="https://www.baidu.com/s" target="_blank" id="baiduform">
 			<input type="text" autocomplete="off" name="wd" id="baidu_keyword">
-			<input type="submit" id="baidu_submit" value="百度一下">
+			<input type="submit" id="baidu_submit" value="">
 		</form>
 	</div>
     {% for category in site.data.Minecraft %}
