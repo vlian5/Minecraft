@@ -9,6 +9,10 @@
       logo: /assets/images/logos/consulting.png
       url: https://minecraft.ods.im/about/
       description: 感谢你收藏此导航站。
+    - title: MC启动参数
+      logo: /assets/images/logos/consulting.png
+      url: https://minecraft.ods.im/minecraft-run-flag/
+      description: 针对1.15+、JAVA8+以上的启动参数。
 - name: MC启动器
   icon: linecons-doc
   links: 
@@ -305,6 +309,12 @@
           logo: /assets/images/logos/Fabric.png
           url: https://cloud.189.cn/web/share?code=jIvINvFzURbm
           description: 1.17.1生存整合beta版本
+    - name: 客户端资源文件
+      links:           
+        - title: 全版本
+          logo: /assets/images/logos/Fabric.png
+          url: https://cloud.189.cn/web/share?code=2IbI7fnuAZBf
+          description: 启动器在启动时会自动下载，网络不好时可下载放到对应位置使用。 
 - name: 服务端核心
   icon: linecons-pencil
   sub: 
