@@ -143,97 +143,118 @@
 - name: 客户端MOD
   icon: linecons-lightbulb
   links: 
-    - title: Autofish
-      logo: /assets/images/logos/favicon.ico
-      url: https://www.curseforge.com/minecraft/mc-mods/autofish
-      description: 自动钓鱼
-    - title: durabilityviewer
-      logo: /assets/images/logos/favicon.ico
-      url: https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer
-      description: 耐久显示
-    - title: diggusmaximus
-      logo: /assets/images/logos/favicon.ico
-      url: https://www.curseforge.com/minecraft/mc-mods/diggus-maximus
-      description: 连锁挖矿，默认按~
-    - title: light-overlay
-      logo: /assets/images/logos/favicon.ico
-      url: https://www.curseforge.com/minecraft/mc-mods/light-overlay
-      description: 光照范围显示
-    - title: optifabric
-      logo: /assets/images/logos/favicon.ico
-      url: https://www.curseforge.com/minecraft/mc-mods/optifabric
-      description: 高清修复前置
     - title: OptiFine
-      logo: /assets/images/logos/favicon.ico
+      logo: /assets/images/logos/OptiFine.png
       url: https://www.optifine.net/downloads
-      description: 高清修复
-    - title: Hwyla
-      logo: /assets/images/logos/favicon.ico
-      url: https://www.curseforge.com/minecraft/mc-mods/hwyla
-      description: 高亮显示
-    - title: worldedit
-      logo: /assets/images/logos/favicon.ico
+      description: 高清修复,全版本
+    - title: optifabric
+      logo: /assets/images/logos/OptiFabric.png
+      url: https://www.curseforge.com/minecraft/mc-mods/optifabric
+      description: 高清修复前置，Fabric，支持1.14-1.17
+    - title: Autofish
+      logo: /assets/images/logos/Autofish.png
+      url: https://www.curseforge.com/minecraft/mc-mods/autofish
+      description: 自动钓鱼,全版本
+    - title: durabilityviewer
+      logo: /assets/images/logos/DurabilityViewer.png
+      url: https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer
+      description: 耐久显示，Fabric&Forge，支持1.11-1.17
+    - title: diggusmaximus
+      logo: /assets/images/logos/diggusmaximus.png
+      url: https://www.curseforge.com/minecraft/mc-mods/diggus-maximus
+      description: 连锁挖矿，Fabrice，支持1.14-1.17
+    - title: light-overlay
+      logo: /assets/images/logos/lightoverlay.png
+      url: https://www.curseforge.com/minecraft/mc-mods/light-overlay
+      description: 光照范围显示，Fabric&Forge，支持1.13-1.17
+    - title: WorldEdit
+      logo: /assets/images/logos/WorldEdit.png
       url: https://www.curseforge.com/minecraft/mc-mods/worldedit
-      description: 创世神
+      description: 创世神：全版本
     - title: fabric-api
-      logo: /assets/images/logos/favicon.ico
+      logo: /assets/images/logos/fabricapi.png
       url: https://www.curseforge.com/minecraft/mc-mods/fabric-api
-      description: fabric-api
-    - title: modmenu
-      logo: /assets/images/logos/favicon.ico
+      description: fabric-api，支持1.14-1.17
+    - title: ModMenu
+      logo: /assets/images/logos/ModMenu.png
       url: https://www.curseforge.com/minecraft/mc-mods/modmenu
       description: MOD菜单
     - title: appleskin
-      logo: /assets/images/logos/favicon.ico
+      logo: /assets/images/logos/AppleSkin.png
       url: https://www.curseforge.com/minecraft/mc-mods/appleskin
-      description: 饱食度显示
+      description: 饱食度显示：Fabric&Forge，支持1.10-1.17
     - title: VoxelMap
-      logo: /assets/images/logos/favicon.ico
+      logo: /assets/images/logos/VoxelMap.jpeg
       url: https://www.curseforge.com/minecraft/mc-mods/voxelmap
-      description: 小地图
+      description: 小地图：Fabric&Forge，1.12-1.17
     - title: mousewheelie
-      logo: /assets/images/logos/favicon.ico
+      logo: /assets/images/logos/mousewheelie.png
       url: https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie
-      description: 鼠标滚轮
+      description: 鼠标滚轮：Fabric版本，支持1.14-1.17
     - title: Dark Loading Screen
-      logo: /assets/images/logos/favicon.ico
+      logo: /assets/images/logos/DarkLoadingScreen.png
       url: https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen
-      description: 使加载屏幕变暗
+      description: 黑色加载屏幕，Fabric版本，支持1.14-1.17
     - title: VanillaDeathChest
-      logo: /assets/images/logos/favicon.ico
+      logo: /assets/images/logos/VanillaDeathChest.png
       url: https://www.curseforge.com/minecraft/mc-mods/vanilladeathchest-fabric
-      description: 死亡箱子
+      description: 死亡箱子：Fabric版本，支持1.14-1.16
     - title: AutoSwitch
-      logo: /assets/images/logos/favicon.ico
+      logo: /assets/images/logos/AutoSwitch.png
       url: https://www.curseforge.com/minecraft/mc-mods/fabric-autoswitch
-      description: 自动选择工具
+      description: 自动选择工具：Fabric版本，支持1.14-1.17
     - title: RoughlyEnoughItems
-      logo: /assets/images/logos/favicon.ico
+      logo: /assets/images/logos/RoughlyEnoughItems.png
       url: https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
-      description: REI物品管理
-    - title: WorldEditCUI
-      logo: /assets/images/logos/favicon.ico
-      url: https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric-edition
-      description: 创世神选择范围显示  
+      description: REI物品管理，Fabric版本，支持1.13-1.17
+    - title: Zero's Selection Mod
+      logo: /assets/images/logos/Selection.png
+      url: https://www.curseforge.com/minecraft/mc-mods/zeros-selection-mod
+      description: 创世神选择范围显示，Fabric版本，支持1.15-1.16
     - title: Beenfo
-      logo: /assets/images/logos/favicon.ico
+      logo: /assets/images/logos/Beenfo.png
       url: https://www.curseforge.com/minecraft/mc-mods/beenfo
-      description: 蜜蜂信息
+      description: 蜜蜂信息，Fabric版本，支持1.15-1.17
     - title: CustomSkinLoader
-      logo: /assets/images/logos/favicon.ico
+      logo: /assets/images/logos/CustomSkinLoader.png
       url: https://www.curseforge.com/minecraft/mc-mods/sit-fabric
-      description: 皮肤补丁
-    - title: RoughlyEnoughItems
-      logo: /assets/images/logos/favicon.ico
-      url: https://www.curseforge.com/minecraft/mc-mods/neat
-      description: 头顶血量
-    - title: reauth
-      logo: /assets/images/logos/favicon.ico
+      description: 皮肤补丁，全版本
+    - title: In-Game Account Switcher
+      logo: /assets/images/logos/InGameAccountSwitcher.png
       url: https://www.curseforge.com/minecraft/mc-mods/reauth/files
-      description: 客户端登录  
-      
-      
-      
+      description: 游戏内账号切换，Fabric版本，支持1.15-1.17 
+    - title: HWYLA
+      logo: /assets/images/logos/Hwyla.gif
+      url: https://www.curseforge.com/minecraft/mc-mods/hwyla
+      description: HWYLA，Fabric&Forge，1.10-1.16
+    - title: BetterF3
+      logo: /assets/images/logos/BetterF3.png
+      url: https://www.curseforge.com/minecraft/mc-mods/betterf3
+      description: BetterF3，Fabric，1.16-1.17      
+    - title: Litematica
+      logo: /assets/images/logos/Litematica.jpeg
+      url: https://www.curseforge.com/minecraft/mc-mods/litematica
+      description: 投影，Fabric，1.13-1.17 
+    - title: 动态FPS
+      logo: /assets/images/logos/DynamicFPS.png
+      url: https://www.curseforge.com/minecraft/mc-mods/dynamic-fps
+      description: 动态FPS，Fabric，1.13-1.17
+    - title: MaLiLib
+      logo: /assets/images/logos/MaLiLib.png
+      url: https://www.curseforge.com/minecraft/mc-mods/malilib
+      description: Item Scroller、Litematica、MiniHUD、TellMe、Tweakeroo前置MOD，1.12-1.17 
+    - title: ModMenu
+      logo: /assets/images/logos/ModMenu.png
+      url: https://www.curseforge.com/minecraft/mc-mods/modmenu
+      description: 模组菜单前置MOD
+    - title: Cloth Config API
+      logo: /assets/images/logos/ClothConfigAPI.png
+      url: https://www.curseforge.com/minecraft/mc-mods/cloth-config
+      description: REI前置MOD，支持1.14-1.17
+    - title: Architectury API
+      logo: /assets/images/logos/ArchitecturyAPI.png
+      url: https://www.curseforge.com/minecraft/mc-mods/architectury-fabric
+      description: REI前置MOD，支持1.14-1.17
 - name: JAVA
   icon: linecons-thumbs-up
   links: 
@@ -274,45 +295,45 @@
           url: https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/443/downloads/paper-1.8.8-443.jar
           description: 官方下载地址
         - title: 1.9.4
-          logo: /assets/images/logos/PAPER.svg
+          logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.9.4/builds/773/downloads/paper-1.9.4-773.jar
           description: 官方下载地址
         - title: 1.10.2
-          logo: /assets/images/logos/PAPER.svg
+          logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.10.2/builds/916/downloads/paper-1.10.2-916.jar
           description: 官方下载地址          
         - title: 1.11.2
-          logo: /assets/images/logos/PAPER.svg
+          logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.11.2/builds/1104/downloads/paper-1.11.2-1104.jar
           description: 官方下载地址        
         - title: 1.12.2
-          logo: /assets/images/logos/PAPER.svg
+          logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.12.2/builds/1618/downloads/paper-1.12.2-1618.jar
           description: 官方下载地址        
         - title: 1.13.2
-          logo: /assets/images/logos/PAPER.svg
+          logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.13.2/builds/655/downloads/paper-1.13.2-655.jar
           description: 官方下载地址   
         - title: 1.14.4
-          logo: /assets/images/logos/PAPER.svg
+          logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.14.4/builds/243/downloads/paper-1.14.4-243.jar
           description: 官方下载地址      
         - title: 1.15.2
-          logo: /assets/images/logos/PAPER.svg
+          logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.15.2/builds/391/downloads/paper-1.15.2-391.jar
           description: 官方下载地址      
         - title: 1.16.5
-          logo: /assets/images/logos/PAPER.svg
+          logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/779/downloads/paper-1.16.5-786.jar
           description: 官方下载地址
         - title: 1.17.1
-          logo: /assets/images/logos/PAPER.svg
+          logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/downloads
           description: 官方下载地址
           
     - name: Spigot
       links:
-        - title: 1.17.1
+        - title: Spigot全版本核心
           logo: /assets/images/logos/spigot.png
           url: https://getbukkit.org/download/spigot
           description: 非官方下载地址，核心可能不是最新版
