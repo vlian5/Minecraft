@@ -279,8 +279,28 @@
           logo: /assets/images/logos/forge.png
           url: https://cloud.189.cn/web/share?code=mIBNRfNrUVzm
           description: 1.7.10生存整合
+        - title: 1.12.2
+          logo: /assets/images/logos/forge.png
+          url: https://cloud.189.cn/web/share?code=bUji6b3yYRZv
+          description: 1.12.2生存整合        
+        - title: 1.13.2
+          logo: /assets/images/logos/forge.png
+          url: https://cloud.189.cn/web/share?code=rIjIJ3iuARva
+          description: 1.13.2生存整合 
     - name: Fabric版本
-      links:
+      links:           
+        - title: 1.14.4
+          logo: /assets/images/logos/Fabric.png
+          url: https://cloud.189.cn/web/share?code=IFJJNrE3mY3y
+          description: 1.14.4生存整合        
+        - title: 1.15.2
+          logo: /assets/images/logos/Fabric.png
+          url: https://cloud.189.cn/web/share?code=INN3uuviEfUv
+          description: 1.15.2生存整合      
+        - title: 1.16.5
+          logo: /assets/images/logos/Fabric.png
+          url: https://cloud.189.cn/web/share?code=R3mi2iV3a2ay
+          description: 1.16.5生存整合
         - title: 1.17.1
           logo: /assets/images/logos/Fabric.png
           url: https://cloud.189.cn/web/share?code=jIvINvFzURbm
