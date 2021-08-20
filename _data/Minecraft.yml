@@ -17,11 +17,11 @@
   icon: linecons-doc
   links: 
     - title: HMCL
-      logo: /assets/images/logos/HMCL.png
+      logo: /assets/images/logos/hmcl.png
       url: https://hmcl.huangyuhui.net/download
       description: 推荐：全平台，模组自动安装，整合包制作。
     - title: BakaXL
-      logo: /assets/images/logos/BakaXL.png
+      logo: /assets/images/logos/Baka.png
       url: https://www.mcbbs.net/thread-512144-1-1.html
       description: 微软登录|全版本|主题|扁平|笨蛋广场
     - title: MultiMC
