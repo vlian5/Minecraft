@@ -259,7 +259,7 @@
       logo: /assets/images/logos/ArchitecturyAPI.png
       url: https://www.curseforge.com/minecraft/mc-mods/architectury-fabric
       description: REI前置MOD，支持1.14-1.17
-- name: JAVA
+- name: JAVA文件
   icon: linecons-thumbs-up
   links: 
     - title: JAVA8
@@ -277,41 +277,41 @@
 - name: 生存整合包
   icon: linecons-diamond
   sub: 
-    - name: Forge版本
+    - name: Forge整合
       links:
-        - title: 1.7.10
+        - title: 1.7.10生存整合
           logo: /assets/images/logos/forge.png
           url: https://cloud.189.cn/web/share?code=mIBNRfNrUVzm
           description: 1.7.10生存整合
-        - title: 1.12.2
+        - title: 1.12.2生存整合
           logo: /assets/images/logos/forge.png
           url: https://cloud.189.cn/web/share?code=bUji6b3yYRZv
           description: 1.12.2生存整合        
-        - title: 1.13.2
+        - title: 1.13.2生存整合
           logo: /assets/images/logos/forge.png
           url: https://cloud.189.cn/web/share?code=rIjIJ3iuARva
           description: 1.13.2生存整合 
-    - name: Fabric版本
+    - name: Fabric整合
       links:           
-        - title: 1.14.4
+        - title: 1.14.4生存整合
           logo: /assets/images/logos/Fabric.png
           url: https://cloud.189.cn/web/share?code=IFJJNrE3mY3y
           description: 1.14.4生存整合        
-        - title: 1.15.2
+        - title: 1.15.2生存整合
           logo: /assets/images/logos/Fabric.png
           url: https://cloud.189.cn/web/share?code=INN3uuviEfUv
           description: 1.15.2生存整合      
-        - title: 1.16.5
+        - title: 1.16.5生存整合
           logo: /assets/images/logos/Fabric.png
           url: https://cloud.189.cn/web/share?code=R3mi2iV3a2ay
           description: 1.16.5生存整合
-        - title: 1.17.1
+        - title: 1.17.1生存整合
           logo: /assets/images/logos/Fabric.png
-          url: https://cloud.189.cn/web/share?code=jIvINvFzURbm
+          url: https://cloud.189.cn/web/share?code=rmEr6nbIz6ju
           description: 1.17.1生存整合beta版本
     - name: 客户端资源文件
       links:           
-        - title: 全版本
+        - title: 全版本assets、libraries文件离线版
           logo: /assets/images/logos/Fabric.png
           url: https://cloud.189.cn/web/share?code=2IbI7fnuAZBf
           description: 启动器在启动时会自动下载，网络不好时可下载放到对应位置使用。 
@@ -320,43 +320,43 @@
   sub: 
     - name: paper
       links:
-        - title: 1.8.8
+        - title: 1.8.8核心
           logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/443/downloads/paper-1.8.8-443.jar
           description: 官方下载地址
-        - title: 1.9.4
+        - title: 1.9.4核心
           logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.9.4/builds/773/downloads/paper-1.9.4-773.jar
           description: 官方下载地址
-        - title: 1.10.2
+        - title: 1.10.2核心
           logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.10.2/builds/916/downloads/paper-1.10.2-916.jar
           description: 官方下载地址          
-        - title: 1.11.2
+        - title: 1.11.2核心
           logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.11.2/builds/1104/downloads/paper-1.11.2-1104.jar
           description: 官方下载地址        
-        - title: 1.12.2
+        - title: 1.12.2核心
           logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.12.2/builds/1618/downloads/paper-1.12.2-1618.jar
           description: 官方下载地址        
-        - title: 1.13.2
+        - title: 1.13.2核心
           logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.13.2/builds/655/downloads/paper-1.13.2-655.jar
           description: 官方下载地址   
-        - title: 1.14.4
+        - title: 1.14.4核心
           logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.14.4/builds/243/downloads/paper-1.14.4-243.jar
           description: 官方下载地址      
-        - title: 1.15.2
+        - title: 1.15.2核心
           logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.15.2/builds/391/downloads/paper-1.15.2-391.jar
           description: 官方下载地址      
-        - title: 1.16.5
+        - title: 1.16.5核心
           logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/779/downloads/paper-1.16.5-786.jar
           description: 官方下载地址
-        - title: 1.17.1
+        - title: 1.17.1核心
           logo: /assets/images/logos/PAPER.png
           url: https://papermc.io/downloads
           description: 官方下载地址
