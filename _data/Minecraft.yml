@@ -286,39 +286,43 @@
         - title: 1.7.10生存整合
           logo: /assets/images/logos/forge.png
           url: https://cloud.189.cn/web/share?code=mIBNRfNrUVzm
-          description: 1.7.10生存整合
+          description: 1.7.10生存整合下载之后解压即可使用
         - title: 1.12.2生存整合
           logo: /assets/images/logos/forge.png
           url: https://cloud.189.cn/web/share?code=bUji6b3yYRZv
-          description: 1.12.2生存整合        
+          description: 1.12.2生存整合 下载之后解压即可使用       
         - title: 1.13.2生存整合
           logo: /assets/images/logos/forge.png
           url: https://cloud.189.cn/web/share?code=rIjIJ3iuARva
-          description: 1.13.2生存整合 
+          description: 1.13.2生存整合下载之后解压即可使用 
     - name: Fabric整合
       links:           
         - title: 1.14.4生存整合
           logo: /assets/images/logos/Fabric.png
           url: https://cloud.189.cn/web/share?code=IFJJNrE3mY3y
-          description: 1.14.4生存整合        
+          description: 1.14.4生存整合 下载之后解压即可使用       
         - title: 1.15.2生存整合
           logo: /assets/images/logos/Fabric.png
           url: https://cloud.189.cn/web/share?code=INN3uuviEfUv
-          description: 1.15.2生存整合      
+          description: 1.15.2生存整合 下载之后解压即可使用
         - title: 1.16.5生存整合
           logo: /assets/images/logos/Fabric.png
           url: https://cloud.189.cn/web/share?code=R3mi2iV3a2ay
-          description: 1.16.5生存整合
+          description: 1.16.5生存整合下载之后解压即可使用
         - title: 1.17.1生存整合
           logo: /assets/images/logos/Fabric.png
           url: https://cloud.189.cn/web/share?code=rmEr6nbIz6ju
-          description: 1.17.1生存整合
-    - name: 客户端资源文件
+          description: 1.17.1生存整合,下载之后拖拽到HNCL启动器安装使用！
+    - name: 其他文件
       links:           
         - title: 全版本assets、libraries文件离线版
           logo: /assets/images/logos/Fabric.png
           url: https://cloud.189.cn/web/share?code=2IbI7fnuAZBf
           description: 启动器在启动时会自动下载，网络不好时可下载放到对应位置使用。 
+        - title: 全版本客户端整合版
+          logo: /assets/images/logos/Fabric.png
+          url: https://cloud.189.cn/web/share?code=2IbI7fnuAZBf
+          description: 1.7.10forge,1.13.2forge/fabric、1.14.4forge/fabric、1.15.2forge/fabric、1.16.5forge/fabric 
 - name: 服务端核心
   icon: linecons-pencil
   sub: 
