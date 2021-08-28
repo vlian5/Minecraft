@@ -116,6 +116,26 @@
           logo: /assets/images/logos/ExcellentShop.jpg
           url: https://www.spigotmc.org/resources/50696/
           description: 高级商店：实体商店、菜单商店、拍卖三合一  
+        - title: Citizens  
+          logo: /assets/images/logos/Citizens.png
+          url: https://www.spigotmc.org/resources/citizens.13811/
+          description: NPC插件
+        - title: QuickShop  
+          logo: /assets/images/logos/QuickShop.jpg
+          url: https://www.spigotmc.org/resources/62575/
+          description: 箱子商店插件
+        - title: Advanced Achievements  
+          logo: /assets/images/logos/AdvancedAchievements.jpg
+          url: https://www.spigotmc.org/resources/advanced-achievements.83466/
+          description: 高级成就插件
+        - title: Lite Sign In  
+          logo: /assets/images/logos/LiteSignIn.jpg
+          url: https://www.spigotmc.org/resources/79584/
+          description: 签到奖励插件
+        - title: GadgetsMenu 
+          logo: /assets/images/logos/GadgetsMenu.jpg
+          url: https://www.spigotmc.org/resources/10885/
+          description: 高级化妆品插件
     - name: 登录插件
       links:
         - title: LoginSecurity  
@@ -235,10 +255,6 @@
       logo: /assets/images/logos/fabricapi.png
       url: https://www.curseforge.com/minecraft/mc-mods/fabric-api
       description: fabric-api，支持1.14-1.17
-    - title: ModMenu
-      logo: /assets/images/logos/ModMenu.png
-      url: https://www.curseforge.com/minecraft/mc-mods/modmenu
-      description: MOD菜单
     - title: appleskin
       logo: /assets/images/logos/AppleSkin.png
       url: https://www.curseforge.com/minecraft/mc-mods/appleskin
@@ -299,6 +315,22 @@
       logo: /assets/images/logos/DynamicFPS.png
       url: https://www.curseforge.com/minecraft/mc-mods/dynamic-fps
       description: 动态FPS，Fabric，1.13-1.17
+    - title: MyCommands
+      logo: /assets/images/logos/MyCommands.png
+      url: https://www.curseforge.com/minecraft/mc-mods/mycommands
+      description: 自定义命令 Fabric&Forge，1.14-1.17    
+    - title: Mouse Tweaks
+      logo: /assets/images/logos/MouseTweaks.png
+      url: https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
+      description: 鼠标调整， Fabric&Forge，1.7-1.17 
+    - title: Smooth Boot
+      logo: /assets/images/logos/SmoothBoot.png
+      url: https://www.curseforge.com/minecraft/mc-mods/resource-loader
+      description: 平滑启动，Fabric&Forge，1.14-1.17
+    - title: MiniHUD
+      logo: /assets/images/logos/MiniHUD.png
+      url: https://www.curseforge.com/minecraft/mc-mods/minihud
+      description:MiniHUD，Fabric&Forge，1.8-1.17
     - title: MaLiLib
       logo: /assets/images/logos/MaLiLib.png
       url: https://www.curseforge.com/minecraft/mc-mods/malilib
@@ -424,6 +456,17 @@
           logo: /assets/images/logos/spigot.png
           url: https://getbukkit.org/download/spigot
           description: 非官方下载地址，核心可能不是最新版
+- name: MC玩家工具
+  icon: linecons-user
+  links: 
+    - title: Amidst
+      logo: /assets/images/logos/favicon.ico
+      url: https://github.com/toolbox4minecraft/amidst
+      description: 显示生物群种信息、粘液块、端岛屿、世界结构
+    - title: Amulet Map Editor
+      logo: /assets/images/logos/AmuletMapEditor.webp
+      url: https://www.amuletmc.com/
+      description: 世界编辑器、转换器：支持1.7-1.17          
 - name: 域名出售
   icon: linecons-user
   links: 
