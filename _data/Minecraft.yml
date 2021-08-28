@@ -330,7 +330,7 @@
     - title: MiniHUD
       logo: /assets/images/logos/MiniHUD.png
       url: https://www.curseforge.com/minecraft/mc-mods/minihud
-      description:MiniHUD，Fabric&Forge，1.8-1.17
+      description: MiniHUD，Fabric&Forge，1.8-1.17
     - title: MaLiLib
       logo: /assets/images/logos/MaLiLib.png
       url: https://www.curseforge.com/minecraft/mc-mods/malilib
