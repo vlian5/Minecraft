@@ -88,6 +88,58 @@
           logo: /assets/images/logos/VentureChat.jpg
           url: https://www.spigotmc.org/resources/venturechat.771/
           description: 聊天插件
+        - title: HoloDropsX
+          logo: /assets/images/logos/HoloDropsX.jpg
+          url: https://www.spigotmc.org/resources/85519/
+          description: 掉落物全息显示
+        - title: PlugManX
+          logo: /assets/images/logos/PlugManX.jpg
+          url: https://www.spigotmc.org/resources/plugmanx.88135/
+          description: 插件管理
+        - title: AdvancedNMotd
+          logo: /assets/images/logos/PlugManX.jpg
+          url: https://www.spigotmc.org/resources/advancednmotd-let-your-motd-smile.58677/
+          description: 服务器MOTD管理
+        - title: CoreProtect 
+          logo: /assets/images/logos/CoreProtect.jpg
+          url: https://www.spigotmc.org/resources/coreprotect.8631/
+          description: 服务器记录查询回档
+        - title: DungeonsXL  
+          logo: /assets/images/logos/DungeonsXL.jpg
+          url: https://www.spigotmc.org/resources/dungeonsxl.9488
+          description: 地牢插件
+        - title: Oraxen  
+          logo: /assets/images/logos/Oraxen.jpg
+          url: https://www.spigotmc.org/resources/72448/
+          description: 自定义造型材质包管理系统  
+        - title: ExcellentShop  
+          logo: /assets/images/logos/ExcellentShop.jpg
+          url: https://www.spigotmc.org/resources/50696/
+          description: 高级商店：实体商店、菜单商店、拍卖三合一  
+    - name: 登录插件
+      links:
+        - title: LoginSecurity  
+          logo: /assets/images/logos/LoginSecurity.jpg
+          url: https://www.spigotmc.org/resources/loginsecurity.19362
+          description: 登录插件
+        - title: AuthMe  
+          logo: /assets/images/logos/AuthMe.jpg
+          url: https://www.spigotmc.org/resources/authmereloaded.6269/
+          description: 登录插件
+        - title: FastLogin
+          logo: /assets/images/logos/FastLogin.jpg
+          url: https://www.spigotmc.org/resources/fastlogin.14153/
+          description: 快速登录            
+    - name: 世界插件
+      links:
+        - title: Multiverse-Core
+          logo: /assets/images/logos/Multiverse-core.jpg
+          url: https://www.spigotmc.org/resources/multiverse-core.390/
+          description: 多世界
+        - title: Residence
+          logo: /assets/images/logos/Residence.jpg
+          url: https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-17.11480/
+          description: 领地
     - name: TabooLib插件集合
       links:
         - title: TrMenu
