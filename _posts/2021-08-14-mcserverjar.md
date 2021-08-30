@@ -6,13 +6,13 @@ mathjax: true
 ---
 ## Purpur
 
-下载可以从 [downloads page](https://purpur.pl3x.net/downloads/),  [downloads API](https://api.pl3x.net), 或者 [Jenkins CI Server](https://ci.pl3x.net/job/Purpur/).
+下载可以从 **[downloads page](https://purpur.pl3x.net/downloads/)**,  **[downloads API](https://api.pl3x.net)**, 或者 **[Jenkins CI Server](https://ci.pl3x.net/job/Purpur/)**.
 
 最新构建的快捷方式链接:
-* [1.17.1](https://api.pl3x.net/v2/purpur/1.17.1/latest/download) builds 1256+
-* [1.17](https://api.pl3x.net/v2/purpur/1.17/latest/download) builds 1172-1255
-* [1.16.5](https://api.pl3x.net/v2/purpur/1.16.5/latest/download) builds 957-1171
-* [1.16.4](https://api.pl3x.net/v2/purpur/1.16.4/latest/download) builds 809-956
+* **[1.17.1](https://api.pl3x.net/v2/purpur/1.17.1/latest/download)** builds 1256+
+* **[1.17](https://api.pl3x.net/v2/purpur/1.17/latest/download)** builds 1172-1255
+* **[1.16.5](https://api.pl3x.net/v2/purpur/1.16.5/latest/download)** builds 957-1171
+* **[1.16.4](https://api.pl3x.net/v2/purpur/1.16.4/latest/download)** builds 809-956
 * [1.16.3](https://api.pl3x.net/v2/purpur/1.16.3/latest/download) builds 751-808
 * [1.16.2](https://api.pl3x.net/v2/purpur/1.16.2/latest/download) builds 711-750
 * [1.16.1](https://api.pl3x.net/v2/purpur/1.16.1/latest/download) builds 608-710
@@ -23,7 +23,7 @@ mathjax: true
 
 ## Paper
 
-下载可以从 [downloads page](https://papermc.io/downloads/), 
+下载可以从 **[downloads page](https://papermc.io/downloads/)**, 
 
 最新构建的快捷方式链接:
 
