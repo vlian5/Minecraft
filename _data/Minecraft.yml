@@ -411,55 +411,19 @@
       description: 启动器在启动时会自动下载，网络不好时可下载放到对应位置使用。 
 - name: 服务端核心
   icon: linecons-pencil
-  sub: 
-    - name: paper
-      links:
-        - title: 1.8.8核心
-          logo: /assets/images/logos/PAPER.png
-          url: https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/443/downloads/paper-1.8.8-443.jar
-          description: 官方下载地址
-        - title: 1.9.4核心
-          logo: /assets/images/logos/PAPER.png
-          url: https://papermc.io/api/v2/projects/paper/versions/1.9.4/builds/773/downloads/paper-1.9.4-773.jar
-          description: 官方下载地址
-        - title: 1.10.2核心
-          logo: /assets/images/logos/PAPER.png
-          url: https://papermc.io/api/v2/projects/paper/versions/1.10.2/builds/916/downloads/paper-1.10.2-916.jar
-          description: 官方下载地址          
-        - title: 1.11.2核心
-          logo: /assets/images/logos/PAPER.png
-          url: https://papermc.io/api/v2/projects/paper/versions/1.11.2/builds/1104/downloads/paper-1.11.2-1104.jar
-          description: 官方下载地址        
-        - title: 1.12.2核心
-          logo: /assets/images/logos/PAPER.png
-          url: https://papermc.io/api/v2/projects/paper/versions/1.12.2/builds/1618/downloads/paper-1.12.2-1618.jar
-          description: 官方下载地址        
-        - title: 1.13.2核心
-          logo: /assets/images/logos/PAPER.png
-          url: https://papermc.io/api/v2/projects/paper/versions/1.13.2/builds/655/downloads/paper-1.13.2-655.jar
-          description: 官方下载地址   
-        - title: 1.14.4核心
-          logo: /assets/images/logos/PAPER.png
-          url: https://papermc.io/api/v2/projects/paper/versions/1.14.4/builds/243/downloads/paper-1.14.4-243.jar
-          description: 官方下载地址      
-        - title: 1.15.2核心
-          logo: /assets/images/logos/PAPER.png
-          url: https://papermc.io/api/v2/projects/paper/versions/1.15.2/builds/391/downloads/paper-1.15.2-391.jar
-          description: 官方下载地址      
-        - title: 1.16.5核心
-          logo: /assets/images/logos/PAPER.png
-          url: https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/779/downloads/paper-1.16.5-786.jar
-          description: 官方下载地址
-        - title: 1.17.1核心
-          logo: /assets/images/logos/PAPER.png
-          url: https://papermc.io/downloads
-          description: 官方下载地址 
-    - name: Spigot
-      links:
-        - title: Spigot全版本核心
-          logo: /assets/images/logos/spigot.png
-          url: https://getbukkit.org/download/spigot
-          description: 非官方下载地址，核心可能不是最新版
+  links:
+    - title: Purpur核心
+      logo: /assets/images/logos/Purpur.png
+      url: https://minecraft.ods.im/mcserverjar/
+      description: PAPER的分支核心，服务器的最佳推荐
+    - title: PAPER核心
+      logo: /assets/images/logos/PAPER.png
+      url: https://minecraft.ods.im/mcserverjar/
+      description: 官方下载地址
+    - title: Spigot核心
+      logo: /assets/images/logos/spigot.png
+      url: https://getbukkit.org/download/spigot
+      description: 非官方下载地址，核心可能不是最新版
 - name: MC玩家工具
   icon: linecons-user
   links: 

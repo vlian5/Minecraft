@@ -6,9 +6,9 @@ mathjax: true
 ---
 ## Purpur
 
-Downloads can be obtained from the [downloads page](https://purpur.pl3x.net/downloads/), the [downloads API](https://api.pl3x.net), or alternatively from Pl3x's [Jenkins CI Server](https://ci.pl3x.net/job/Purpur/).
+下载可以从 [downloads page](https://purpur.pl3x.net/downloads/),  [downloads API](https://api.pl3x.net), 或者 [Jenkins CI Server](https://ci.pl3x.net/job/Purpur/).
 
-Latest build shortcut links:
+最新构建的快捷方式链接:
 * [1.17.1](https://api.pl3x.net/v2/purpur/1.17.1/latest/download) builds 1256+
 * [1.17](https://api.pl3x.net/v2/purpur/1.17/latest/download) builds 1172-1255
 * [1.16.5](https://api.pl3x.net/v2/purpur/1.16.5/latest/download) builds 957-1171
@@ -23,9 +23,9 @@ Latest build shortcut links:
 
 ## Paper
 
-Downloads can be obtained from the [downloads page](https://papermc.io/downloads/), the [downloads API](https://api.pl3x.net), or alternatively from Pl3x's [Jenkins CI Server](https://ci.pl3x.net/job/Purpur/).
+下载可以从 [downloads page](https://papermc.io/downloads/), 
 
-Latest build shortcut links:
+最新构建的快捷方式链接:
 
 * [1.17.1](https://papermc.io/downloads)
 * [1.16.5](https://papermc.io/downloads#Paper-1.16)
