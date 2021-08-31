@@ -424,6 +424,26 @@
       logo: /assets/images/logos/spigot.png
       url: https://getbukkit.org/download/spigot
       description: 非官方下载地址，核心可能不是最新版
+    - title: Arclight
+      logo: /assets/images/logos/Arclight.png
+      url: https://github.com/IzzelAliz/Arclight
+      description: 高版本Forge+Bukkit+Spigot服务端,1.14-1.17
+    - title: CatServer
+      logo: /assets/images/logos/CatServer.png
+      url: https://github.com/Luohuayu/CatServer
+      description: 1.12.2版本Forge+Bukkit+Spigot服务端
+    - title: LoliServer
+      logo: /assets/images/logos/LoliServer.png
+      url: https://www.mcbbs.net/forum.php?mod=viewthread&tid=1191446
+      description: 1.16版本Forge+Bukkit+Spigot服务端
+    - title: 官服Vanilla
+      logo: /assets/images/logos/CatServer.png
+      url: https://minecraft.ods.im/Vanilla/
+      description: 官方纯净服
+    - title: sponge
+      logo: /assets/images/logos/sponge.png
+      url: https://www.spongepowered.org/downloads/
+      description: sponge海棉端
 - name: MC玩家工具
   icon: linecons-user
   links: 
