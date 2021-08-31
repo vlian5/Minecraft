@@ -437,7 +437,7 @@
       url: https://www.mcbbs.net/forum.php?mod=viewthread&tid=1191446
       description: 1.16版本Forge+Bukkit+Spigot服务端
     - title: 官服Vanilla
-      logo: /assets/images/logos/CatServer.png
+      logo: /assets/images/logos/Vanilla.png
       url: https://minecraft.ods.im/Vanilla/
       description: 官方纯净服
     - title: sponge
