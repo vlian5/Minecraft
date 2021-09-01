@@ -468,7 +468,7 @@
       description: 溢价域名，低价急出！可议价！
     - title: 正版MC账号（100元）
       logo: /assets/images/logos/favicon.ico
-      url: http://wpa.qq.com/msgrd?v=3&uin=878269086&site=qq&menu=yes
+      url: tencent://message/?uin=878269086
       description: 可直接添加到你的账号上，无需购买账号。有疑问可详谈
 - name: 其他工具
   icon: linecons-user
