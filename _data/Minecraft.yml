@@ -455,7 +455,7 @@
       logo: /assets/images/logos/AmuletMapEditor.webp
       url: https://www.amuletmc.com/
       description: 世界编辑器、转换器：支持1.7-1.17          
-- name: 域名出售
+- name: 交易淘宝
   icon: linecons-user
   links: 
     - title: mcss.vip
@@ -466,6 +466,10 @@
       logo: /assets/images/logos/favicon.ico
       url: https://mi.aliyun.com/detail/online.html?spm=5176.8105420.1024.2.16d92d19btLzsN&domainName=521521521.xyz&orgType=0&productType=2
       description: 溢价域名，低价急出！可议价！
+    - title: 正版MC账号（100元）
+      logo: /assets/images/logos/favicon.ico
+      url: tencent://message/?uin=878269086
+      description: 可直接添加到你的账号上，无需购买账号。有疑问可详谈
 - name: 其他工具
   icon: linecons-user
   links: 
