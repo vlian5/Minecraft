@@ -470,6 +470,10 @@
       logo: /assets/images/logos/favicon.ico
       url: tencent://message/?uin=878269086
       description: 官方现在在迁移账号，可直接添加到你的账号上，无需购买账号。有疑问可详谈
+    - title: OFFICE365账号（永久）
+      logo: /assets/images/logos/favicon.ico
+      url: tencent://message/?uin=878269086
+      description: 正版OFFICE365账号，5T Onedrive容量，永久账号，自定义前缀
 - name: 其他工具
   icon: linecons-user
   links: 
