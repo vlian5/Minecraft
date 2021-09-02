@@ -14,3 +14,8 @@ type: page
 
 此网址导航地址主要为MCBBS论坛、spigotmc论坛、curseforge资源站、Github开源项目地址及作者个人网站，选择最有地址投放！如有图片、网址资源欢迎提交
 
+
+联系方式
+微信 mcssvip
+QQ 878269086
+
