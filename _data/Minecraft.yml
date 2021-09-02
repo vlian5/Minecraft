@@ -5,10 +5,10 @@
       logo: /assets/images/logos/caffee.png
       url: https://pay.ods.im/
       description: 感谢你收藏此导航站，赞助我一杯咖啡吧。  
-    - title: 网站说明
-      logo: /assets/images/logos/consulting.png
-      url: https://minecraft.ods.im/about/
-      description: 感谢你收藏此导航站。
+    - title: 1.18预览版6整合包
+      logo: /assets/images/logos/favicon.ico
+      url: https://cloud.189.cn/web/share?code=RBV7FfuaQz6n
+      description: 下载之后将zip压缩包拖拽到HMCL启动器即可安装1.18整合包
     - title: MC启动参数
       logo: /assets/images/logos/consulting.png
       url: https://minecraft.ods.im/minecraft-run-flag/
