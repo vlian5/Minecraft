@@ -153,6 +153,20 @@
         - title: FastLogin
           logo: /assets/images/logos/FastLogin.jpg
           url: https://www.spigotmc.org/resources/fastlogin.14153/
+          description: 快速登录  
+    - name: 附魔插件
+      links:
+        - title: LoginSecurity  
+          logo: /assets/images/logos/LoginSecurity.jpg
+          url: https://www.spigotmc.org/resources/loginsecurity.19362
+          description: 登录插件
+        - title: AuthMe  
+          logo: /assets/images/logos/AuthMe.jpg
+          url: https://www.spigotmc.org/resources/authmereloaded.6269/
+          description: 登录插件
+        - title: FastLogin
+          logo: /assets/images/logos/FastLogin.jpg
+          url: https://www.spigotmc.org/resources/fastlogin.14153/
           description: 快速登录            
     - name: 世界插件
       links:
@@ -358,7 +372,7 @@
 - name: JAVA环境
   icon: linecons-thumbs-up
   links: 
-    - title: Liberica JDK
+    - title: Bell-Soft Liberica JDK
       logo: /assets/images/logos/java.jpg
       url: https://bell-sw.com/pages/downloads/
       description: 推荐：JAVA环境下载，集成JFX功能
@@ -366,10 +380,10 @@
       logo: /assets/images/logos/java.jpg
       url: https://adoptopenjdk.net/
       description: JAVA环境下载，不含JFX功能 
-    - title: Microsoft JDK
+    - title: Azul Zulu OpenJDK
       logo: /assets/images/logos/java.jpg
-      url: https://docs.microsoft.com/zh-cn/java/openjdk/download
-      description: 未测试，尚不清楚表现如何  
+      url: https://www.azul.com/downloads/?package=jdk
+      description: JAVA环境下载
     - title: JAVA环境配置教程
       logo: /assets/images/logos/java.jpg
       url: https://minecraft.ods.im/java-basic-environment-setup/
