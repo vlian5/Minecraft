@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Minecraft.ods.im - 我的世界资源网址导航
-keywords: Minecraft导航站,Minecraft资源站，Minecraft下载站，Minecraft服务器，我的世界导航站,我的世界资源站，我的世界下载站，我的世界服务器，我的世界MOD，我的世界服务器核心，我的世界服务器插件，Minecraft服务器核心, minecraft.ods.im
-description: Minecraft导航站,Minecraft资源站，Minecraft下载站，Minecraft服务器，我的世界导航站,我的世界资源站，我的世界下载站，我的世界服务器，我的世界MOD，我的世界服务器核心，我的世界服务器插件，Minecraft服务器核心, minecraft.ods.im
+title: Minecraft.ods.im - 我的世界资源下载导航
+keywords: Minecraft导航站,Minecraft资源站,Minecraft下载站,Minecraft服务器,我的世界导航站,我的世界资源站,我的世界下载站,我的世界服务器,我的世界MOD,我的世界服务器核心,我的世界服务器插件,Minecraft服务器核心, minecraft.ods.im
+description: Minecraft导航站,Minecraft资源站,Minecraft下载站,Minecraft服务器,我的世界导航站,我的世界资源站,我的世界下载站,我的世界服务器,我的世界MOD,我的世界服务器核心,我的世界服务器插件,Minecraft服务器核心, minecraft.ods.im
 # brief-intro: Minecraft资源导航站
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://minecraft.ods.im" # the base hostname & protocol for your site
