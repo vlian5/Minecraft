@@ -7,8 +7,8 @@
       description: 感谢你收藏此导航站，赞助我一杯咖啡吧。  
     - title: 1.18预览版6整合包
       logo: /assets/images/logos/favicon.ico
-      url: https://cloud.189.cn/web/share?code=RBV7FfuaQz6n
-      description: 下载之后将zip压缩包拖拽到HMCL启动器即可安装1.18整合包
+      url: https://wwa.lanzoui.com/iaOXztji6vi
+      description: 下载之后解压即可使用1.18整合包
     - title: MC启动参数
       logo: /assets/images/logos/consulting.png
       url: https://minecraft.ods.im/minecraft-run-flag/
@@ -17,6 +17,10 @@
       logo: /assets/images/logos/Fabric.png
       url: https://cloud.189.cn/web/share?code=rmEr6nbIz6ju
       description: 1.17.1生存整合fabric版本，下载拖拽到HMCL启动器即可
+    - title: 我的世界基岩版全版本安装包
+      logo: /assets/images/logos/mcpe.jpg
+      url: https://pan.baidu.com/s/1QhTs3amsVp89CffuKtCdyA
+      description: 提取码：4vnl  来源QQ群:MC下载小站 511315156
 - name: MC启动器
   icon: linecons-doc
   links: 
@@ -137,6 +141,20 @@
           url: https://www.spigotmc.org/resources/10885/
           description: 高级化妆品插件
     - name: 登录插件
+      links:
+        - title: LoginSecurity  
+          logo: /assets/images/logos/LoginSecurity.jpg
+          url: https://www.spigotmc.org/resources/loginsecurity.19362
+          description: 登录插件
+        - title: AuthMe  
+          logo: /assets/images/logos/AuthMe.jpg
+          url: https://www.spigotmc.org/resources/authmereloaded.6269/
+          description: 登录插件
+        - title: FastLogin
+          logo: /assets/images/logos/FastLogin.jpg
+          url: https://www.spigotmc.org/resources/fastlogin.14153/
+          description: 快速登录  
+    - name: 附魔插件
       links:
         - title: LoginSecurity  
           logo: /assets/images/logos/LoginSecurity.jpg
@@ -354,7 +372,7 @@
 - name: JAVA环境
   icon: linecons-thumbs-up
   links: 
-    - title: Liberica JDK
+    - title: Bell-Soft Liberica JDK
       logo: /assets/images/logos/java.jpg
       url: https://bell-sw.com/pages/downloads/
       description: 推荐：JAVA环境下载，集成JFX功能
@@ -362,10 +380,10 @@
       logo: /assets/images/logos/java.jpg
       url: https://adoptopenjdk.net/
       description: JAVA环境下载，不含JFX功能 
-    - title: Microsoft JDK
+    - title: Azul Zulu OpenJDK
       logo: /assets/images/logos/java.jpg
-      url: https://docs.microsoft.com/zh-cn/java/openjdk/download
-      description: 未测试，尚不清楚表现如何  
+      url: https://www.azul.com/downloads/?package=jdk
+      description: JAVA环境下载
     - title: JAVA环境配置教程
       logo: /assets/images/logos/java.jpg
       url: https://minecraft.ods.im/java-basic-environment-setup/
