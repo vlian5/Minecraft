@@ -165,35 +165,35 @@
         - title: TrMenu
           logo: /assets/images/logos/TrMenu.jpg
           url: https://github.com/TrMenu/TrMenu
-          description: 高级菜单
+          description: 高级菜单，支持1.8-1.17
         - title: Adyeshach
           logo: /assets/images/logos/Adyeshach.png
           url: https://github.com/TabooLib/Adyeshach
-          description: 纯发包现代化NPC系统
+          description: 纯发包现代化NPC系统，支持1.8-1.17
         - title: Adyeshach扩展
           logo: /assets/images/logos/Adyeshachex.png
           url: https://www.mcbbs.net/thread-1192957-1-1.html
-          description: 纯发包现代化NPC系统扩展插件。
+          description: 纯发包现代化NPC系统扩展插件。，支持1.8-1.17
         - title: Chemdah
           logo: /assets/images/logos/Chemdah.png
           url: https://github.com/TabooLib/Chemdah
-          description: 高级任务插件
+          description: 高级任务插件，支持1.8-1.17
         - title: TrHologram
           logo: /assets/images/logos/TrHologram.png
           url: https://github.com/Arasple/TrHologram
-          description: 动态可交互全息图系统
+          description: 动态可交互全息图系统，支持1.8-1.17
         - title: TrChat
           logo: /assets/images/logos/TrChat.png
-          url: https://github.com/Arasple/TrChat
-          description: 高级聊天插件，支持1.8-1.16
+          url: https://github.com/FlickerProjects/TrChat
+          description: 高级聊天插件，支持1.8-1.17
         - title: Brevis
           logo: /assets/images/logos/Brevis.png
           url: https://github.com/Arasple/Brevis
-          description: 自定义快捷组合触发方式
+          description: 自定义快捷组合触发方式，支持1.8-1.17
         - title: Fenestra
           logo: /assets/images/logos/Fenestra.png
           url: https://github.com/TabooLib/Fenestra
-          description: 全功能在线物品NBT编辑器
+          description: 全功能在线物品NBT编辑器，支持1.8-1.17
     - name: MythicLib插件集合
       links:
         - title: MMOCORE/MythicMMO
