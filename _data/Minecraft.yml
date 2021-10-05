@@ -164,7 +164,7 @@
       links:
         - title: TrMenu
           logo: /assets/images/logos/TrMenu.jpg
-          url: https://github.com/TrMenu/TrMenu
+          url: https://github.com/InsinuateProjects/TrMenu
           description: 高级菜单，支持1.8-1.17
         - title: Adyeshach
           logo: /assets/images/logos/Adyeshach.png
@@ -180,7 +180,7 @@
           description: 高级任务插件，支持1.8-1.17
         - title: TrHologram
           logo: /assets/images/logos/TrHologram.png
-          url: https://github.com/Arasple/TrHologram
+          url: 	https://github.com/Micalhl/TrHologram/
           description: 动态可交互全息图系统，支持1.8-1.17
         - title: TrChat
           logo: /assets/images/logos/TrChat.png
