@@ -5,18 +5,14 @@
       logo: /assets/images/logos/caffee.png
       url: https://pay.ods.im/
       description: 感谢你收藏此导航站，赞助我一杯咖啡吧。  
-    - title: 1.18预览版6整合包
-      logo: /assets/images/logos/favicon.ico
-      url: https://wwa.lanzoui.com/iaOXztji6vi
-      description: 下载之后解压即可使用1.18整合包
     - title: MC启动参数
       logo: /assets/images/logos/consulting.png
       url: https://minecraft.ods.im/minecraft-run-flag/
       description: 针对1.15+、JAVA8+以上的启动参数。
-    - title: 1.17.1生存整合
+    - title: 1.18.1生存整合
       logo: /assets/images/logos/Fabric.png
-      url: https://cloud.189.cn/web/share?code=rmEr6nbIz6ju
-      description: 1.17.1生存整合fabric版本，下载拖拽到HMCL启动器即可
+      url: https://www.mcbbs.net/forum-modpack-1.html
+      description: 1.18.1生存整合fabric版本，下载拖拽到HMCL启动器即可，待更新！
     - title: 我的世界基岩版全版本安装包
       logo: /assets/images/logos/mcpe.jpg
       url: https://pan.baidu.com/s/1QhTs3amsVp89CffuKtCdyA
@@ -456,7 +452,7 @@
       description: 1.16版本Forge+Bukkit+Spigot服务端
     - title: 官服Vanilla
       logo: /assets/images/logos/Vanilla.png
-      url: https://minecraft.ods.im/Vanilla/
+      url: https://minecraft.ods.im/mcserverjar/
       description: 官方纯净服
     - title: sponge
       logo: /assets/images/logos/sponge.png
@@ -484,10 +480,6 @@
       logo: /assets/images/logos/favicon.ico
       url: https://mi.aliyun.com/detail/online.html?spm=5176.8105420.1024.2.16d92d19btLzsN&domainName=521521521.xyz&orgType=0&productType=2
       description: 溢价域名，低价急出！可议价！
-    - title: 正版MC账号（100元）
-      logo: /assets/images/logos/favicon.ico
-      url: tencent://message/?uin=878269086
-      description: 官方现在在迁移账号，可直接添加到你的账号上，无需购买账号。有疑问可详谈
     - title: OFFICE365账号（永久）
       logo: /assets/images/logos/favicon.ico
       url: tencent://message/?uin=878269086
