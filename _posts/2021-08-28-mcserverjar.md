@@ -43,7 +43,7 @@ mathjax: true
 
 ## spigot
 
-spigot核心文件需自行构建，不会构建的可在这一个页面，不是官方下载链接，自行斟酌下载！ **[![ODS下载地址.png](https://i.loli.net/2021/08/28/wtBjlECPHSh4bKA.png)](https://getbukkit.org/download/spigot）**
+spigot核心文件需自行构建，不会构建的可在这一个页面，不是官方下载链接，自行斟酌下载！ **[ODS下载地址](https://getbukkit.org/download/spigot）**
 
 ## Vanilla 正式版
 
