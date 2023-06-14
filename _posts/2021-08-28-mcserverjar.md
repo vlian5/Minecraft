@@ -25,7 +25,7 @@ mathjax: true
 
 ## Paper
 
-下载可以从 **[downloads page](https://papermc.io/downloads/)**, 
+下载可以从 **[downloads page](https://papermc.io/downloads)**, 
 
 最新构建的快捷方式链接:
 
